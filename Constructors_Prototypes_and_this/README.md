@@ -272,11 +272,10 @@ batman.sayHi.apply({ name: 'Cher' }, [ 'Will', 'Jada' ]); //logs 'Hello Will and
     rect.getArea(); //20
     ```
 
+    My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/blob/master/Constructors_Prototypes_and_this/1-rectangle.js).
+
 2. Write a function called `invertCase` that expects a string as a parameter. This function should return a new string with all the same characters as the string that was passed in but with the cases of the alphabetic characters switched. Uppercase characters should become lowercase and lowercase letters should become uppercase. Characters that are not alphabetic should not change. <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase">`String.prototype.toUpperCase`</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase">`String.prototype.toLowerCase`</a> will come in handy here.
 
-### Bonus Exercise
-
-Write a constructor called `Countdown` that accepts a single argument - the number of seconds to count down. It should be possible to call the `start` method of instances of `Countdown` to initiate the countdown. Once the countdown starts, it should count down to zero starting with the number that was passed to the constructor and logging each number to the console with a one second delay.
+    My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/blob/master/Constructors_Prototypes_and_this/2-invertCase.js).
 
 
-![It's the final countdown](countdown.gif)
