@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+#input {
+    border: 3px solid skyblue;
+    position: relative;
+    left: 550px;
+    top: 280px;
+}
