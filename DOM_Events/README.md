@@ -7,7 +7,7 @@
 
 
 
-# <p align="center"> Some Theory></p>
+# <p align="center"> Some Theory</p>
 
 
 
