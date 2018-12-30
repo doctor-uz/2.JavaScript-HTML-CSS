@@ -22,7 +22,7 @@
 
 
 
-# <p align="center" color = "#3161a3"> Some Theory</p>
+# <p align="center" style="color:#3161a3"> Some Theory</p>
 
 
 
