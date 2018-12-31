@@ -49,8 +49,7 @@ context.stroke();
 
 After running these commands the canvas will look like this:
 
-
-<img src="canvas.png">
+<img src="canvas_2.png">
 
 ## Useful context methods and properties
 
