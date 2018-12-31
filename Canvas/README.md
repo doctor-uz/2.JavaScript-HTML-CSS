@@ -1,6 +1,6 @@
 ## Exercise
 
-Draw a <a href="../wk1_html_css_lab_2">stick figure</a> using a `<canvas>` element.
+Draw a <a href="stick_figure.png">stick figure</a> using a `<canvas>` element.
 
 #### My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/tree/master/Canvas).
 
