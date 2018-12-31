@@ -10,19 +10,19 @@
 
    #### My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/tree/master/CSS-Flexbox_Grid_Ticker2/2-exercise).
 
-   ![flexbox](/Users/dilshod/Documents/2.JavaScript-HTML-CSS/CSS-Flexbox_Grid_Ticker2/flexbox1.png)
+   ![flexbox](flexbox1.png)
 
 2. Copy the HTML document you created and add to the `<main>` element a single `<img>` tag with its `src` attribute set to `https://bubble-medicine.glitch.me/gif?tag=kitty`. This url uses the [Giphy API](http://api.giphy.com/) to get a random gif so it will not be possible to know the width and height of the image that will be displayed in advance. Make the `<main>` element a flex container and have the `<img>` element appear centered vertically and horizontally.
 
    #### My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/tree/master/CSS-Flexbox_Grid_Ticker2/3-exercise).
 
-   ![flexbox](/Users/dilshod/Documents/2.JavaScript-HTML-CSS/CSS-Flexbox_Grid_Ticker2/flexbox2.png)
+   ![flexbox](flexbox2.png)
 
 3. Use Flexbox to reproduce the following design. Each outer box should be a flex container that contains only one flex item.
 
    #### My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/tree/master/CSS-Flexbox_Grid_Ticker2/4-exercise).
 
-   ![flexbox](/Users/dilshod/Documents/2.JavaScript-HTML-CSS/CSS-Flexbox_Grid_Ticker2/boxes.png)
+   ![flexbox](boxes.png)
 
 
 
@@ -32,13 +32,13 @@
 
    #### My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/tree/master/CSS-Flexbox_Grid_Ticker2/grid/2-exercise).
 
-   ![Grid](/Users/dilshod/Documents/2.JavaScript-HTML-CSS/CSS-Flexbox_Grid_Ticker2/grid1.png)
+   ![Grid](grid1.png)
 
 5. Use CSS Grid to reproduce the following design. Each outer box should be a grid container containing a single grid item.
 
    #### My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/tree/master/CSS-Flexbox_Grid_Ticker2/grid/3-exercise).
 
-   ![Grid](/Users/dilshod/Documents/2.JavaScript-HTML-CSS/CSS-Flexbox_Grid_Ticker2/boxes.png)
+   ![Grid](boxes.png)
 
 
 
