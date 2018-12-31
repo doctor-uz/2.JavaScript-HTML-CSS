@@ -1,3 +1,23 @@
+## Exercises
+
+1. Write a function that expects a string representing a selector to be passed as a parameter. The function should find all the elements in the document that match the selector and change their style so that the text they contain is italic, underlined, and bold.
+
+   #### My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/blob/master/The_Document_Object_Model_(DOM)/script.js).
+
+2. Write a function that expects a string representing a class name to be passed as a parameter. The function should return an array containing all the elements in the document that have the class that was passed in.
+
+   #### My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/blob/master/The_Document_Object_Model_(DOM)/script2.js).
+
+3. Write a function that inserts an element into the `body` of the currently loaded page. That element should have fixed position, z-index of 2147483647, left of 20px, top of 100px, font-size of 200px, and contain the text 'AWESOME'.
+
+   #### My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/blob/master/The_Document_Object_Model_(DOM)/script3.js).
+
+
+
+# <p align="center"> Some Theory</p>
+
+
+
 # The Document Object Model (DOM)
 
 The Document Object Model (DOM) is the interface browsers provide to the content of webpages. By using the DOM we are able to change the content and appearance of webpages after they have loaded. In the early days of the web this was not possible - the only way to change what was displayed was to load a new page.
@@ -55,18 +75,4 @@ There are also methods for creating, adding, and removing nodes.
 * <a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/insertBefore">`insertBefore`</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild">`removeChild`</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Web/API/Node/replaceChild">`replaceChild`</a>
-
-## Exercises
-
-1. Write a function that expects a string representing a selector to be passed as a parameter. The function should find all the elements in the document that match the selector and change their style so that the text they contain is italic, underlined, and bold.
-
-   My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/blob/master/The_Document_Object_Model_(DOM)/script.js).
-
-2. Write a function that expects a string representing a class name to be passed as a parameter. The function should return an array containing all the elements in the document that have the class that was passed in.
-
-   My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/blob/master/The_Document_Object_Model_(DOM)/script2.js).
-
-3. Write a function that inserts an element into the `body` of the currently loaded page. That element should have fixed position, z-index of 2147483647, left of 20px, top of 100px, font-size of 200px, and contain the text 'AWESOME'.
-
-   My [solution](https://github.com/doctor-uz/2.JavaScript-HTML-CSS/blob/master/The_Document_Object_Model_(DOM)/script3.js).
 
